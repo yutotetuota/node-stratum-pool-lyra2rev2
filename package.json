@@ -12,9 +12,9 @@
         "litecoin",
         "scrypt"
     ],
-    "homepage": "https://github.com/upgradeadvice/node-stratum-pool",
+    "homepage": "https://github.com/yutotetuota/node-stratum-pool-lyra2rev2",
     "bugs": {
-        "url": "https://github.com/upgradeadvice/node-stratum-pool/issues"
+        "url": "https://github.com/yutotetuota/node-stratum-pool-lyra2rev2/issues"
     },
     "license": "GPL-2.0",
     "author": "Matthew Little",
@@ -25,10 +25,10 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/upgradeadvice/node-stratum-pool.git"
+        "url": "https://github.com/yutotetuota/node-stratum-pool-lyra2rev2.git"
     },
     "dependencies": {
-        "multi-hashing": "upgradeadvice/node-multi-hashing",
+        "multi-hashing": "yutotetuota/node-multi-hashing-lyra2rev2",
         "bignum": "*",
         "base58-native": "*",
         "async": "*"
